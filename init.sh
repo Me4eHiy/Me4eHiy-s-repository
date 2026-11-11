@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Комментарий
-NAME="Капуста"
+NAME="Капут"
 echo 'Развёртывание проекта'
 mkdir -p app/{arc,assets,docs}
 touch index.html style.css
