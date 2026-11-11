@@ -1,0 +1,22 @@
+/c/Users/Student/bin
+/mingw64/bin
+/usr/local/bin
+/usr/bin
+/bin
+/mingw64/bin
+/usr/bin
+/c/Users/Student/bin
+/c/Windows/system32
+/c/Windows
+/c/Windows/System32/Wbem
+/c/Windows/System32/WindowsPowerShell/v1.0
+/c/Program Files/Microsoft SQL Server/150/Tools/Binn
+/c/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn
+/c/Program Files/dotnet
+/c/Users/Student/AppData/Local/Programs/Python/Python311/Scripts
+/c/Users/Student/AppData/Local/Programs/Python/Python311
+/c/Users/Student/AppData/Local/Programs/Python/Launcher
+/c/Users/Student/AppData/Local/Microsoft/WindowsApps
+/c/Users/Student/AppData/Local/Programs/Microsoft VS Code/bin
+/usr/bin/vendor_perl
+/usr/bin/core_perl
